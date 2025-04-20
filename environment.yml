@@ -1,0 +1,6 @@
+name: tfm_mujoco
+dependencies:
+  - python=3.8
+  - mujoco
+  - numpy
+  - matplotlib
