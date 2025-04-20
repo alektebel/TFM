@@ -2,7 +2,7 @@ import mujoco
 import mujoco.viewer
 import numpy as np
 import time
-from policy import HandPolicy
+from training.policy import HandPolicy
 
 # Load the scene model (which includes the hand)
 model = mujoco.MjModel.from_xml_path("models/scene.xml")
@@ -40,6 +40,9 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
         
         # Set position (maintaining orientation)
         data.qpos[0:3] = [x, y, z]
+        
+        # Update wave animation if active
+        policy.update_wave()
         
         # Step simulation
         mujoco.mj_step(model, data)

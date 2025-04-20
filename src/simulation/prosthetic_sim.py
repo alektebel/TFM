@@ -3,6 +3,7 @@ import mujoco.viewer
 import numpy as np
 import time
 import os
+from training.policy import HandPolicy
 
 def main():
     print("Starting prosthetic hand simulation...")
@@ -13,6 +14,9 @@ def main():
     print(f"Loading model from: {model_path}")
     model = mujoco.MjModel.from_xml_path(model_path)
     data = mujoco.MjData(model)
+    
+    # Create hand policy
+    policy = HandPolicy(model, data)
     
     # Set initial position for the floating hand
     data.qpos[0:3] = [0, 0, 0.3]  # x, y, z position
@@ -101,6 +105,9 @@ def main():
             # Apply finger controls
             for i, joint_name in enumerate(['wrist_flexion', 'thumb', 'index', 'middle', 'ring', 'pinky']):
                 data.ctrl[i] = current_angles[joint_name]
+            
+            # Update wave animation if active
+            policy.update_wave()
             
             # Position control to keep the hand floating
             current_pos = data.qpos[0:3]
