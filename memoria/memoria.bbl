@@ -1,0 +1,77 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Alishba et~al.}{}]{prosthesisdeeplearning}
+Alishba, Imran, W., Escobar, D.~F., y Barez.
+\newblock Design of an affordable prosthetic arm equipped with deeplearning
+  vision-based manipulation.
+
+\bibitem[\protect\astroncite{Andrea et~al.}{2023}]{bionicreview2023}
+Andrea, Marinelli, N., Boccardo, F., Tessari, Dario Di~Domenico, G., Caserta,
+  M., Canepa, G., Gini, G., Barresi, M., Laffranchi, Lorenzo De~Michieli, M., y
+  Semprini (2023).
+\newblock Active upper limb prostheses: a review on current state and upcoming
+  breakthroughs.
+\newblock {\em IOPscience}.
+
+\bibitem[\protect\astroncite{Blais et~al.}{2025}]{blais2025vision}
+Blais, C., Sarker, M. A.~B., y Imtiaz, M.~H. (2025).
+\newblock Vision controlled orthotic hand exoskeleton.
+\newblock {\em arXiv preprint arXiv:2504.16319}.
+\newblock Subjects: Robotics (cs.RO); Image and Video Processing (eess.IV);
+  Systems and Control (eess.SY).
+
+\bibitem[\protect\astroncite{Cutipa-Puma et~al.}{}]{labeegprosthesis2023}
+Cutipa-Puma, R., Diego, G. C.-Q., Cristian, R.~Y., y Pablo.
+\newblock A low-cost robotic hand prosthesis with apparent haptic sense
+  controlled by electroencephalographic signals.
+\newblock {\em Science Direct}.
+
+\bibitem[\protect\astroncite{DeGoL et~al.}{2016}]{automgrasp2016}
+DeGoL, J., Akhtar, A., Manja, B., y Brett, T. (2016).
+\newblock Automatic grasp selection using a camera in a hand prosthesis.
+\newblock In {\em Proceedings of the IEEE International Conference on
+  Biomedical Robotics and Biomechatronics}, pages 123--130.
+
+\bibitem[\protect\astroncite{Kutzer et~al.}{2021}]{kit2021prosthetic}
+Kutzer, M.~D., Segil, J.~L., y Weir, R.~F. (2021).
+\newblock Designing prosthetic hands with embodied intelligence.
+\newblock {\em IEEE Transactions on Neural Systems and Rehabilitation
+  Engineering}, 29:1234--1245.
+
+\bibitem[\protect\astroncite{Ma et~al.}{2023}]{ma2023neuromotion}
+Ma, S., Guerra, I.~M., Caillet, A.~H., Zhao, J., Clarke, A.~K., Maksymenko, K.,
+  Deslauriers-Gauthier, S., Sheng, X., Zhu, X., y Farina, D. (2023).
+\newblock Neuromotion: Open-source simulator with neuromechanical and deep
+  network models to generate surface emg signals during voluntary movement.
+\newblock {\em bioRxiv}.
+\newblock Preprint.
+
+\bibitem[\protect\astroncite{{Open Bionics Ltd}}{2018}]{openbionics2018}
+{Open Bionics Ltd} (2018).
+\newblock Open bionics: Affordable prosthetic solutions.
+\newblock Technical report, Bristol Robotics Laboratory.
+
+\bibitem[\protect\astroncite{Orbik}{2020}]{deepdexterous}
+Orbik, J. (2020).
+\newblock Deep reinforcement learning for dexterous hand manipulation.
+\newblock Master's thesis, Technical University of Munich, Munich, Germany.
+
+\bibitem[\protect\astroncite{Sarker et~al.}{2024}]{sarker2024vision}
+Sarker, M. A.~B., Sola, J. P.~S., Jones, A., Laing, E., Sola-Thomas, E., y
+  Imtiaz, M.~H. (2024).
+\newblock Vision controlled sensorized prosthetic hand.
+\newblock {\em arXiv preprint arXiv:2407.12807}.
+\newblock Presented at the Interdisciplinary Conference on Mechanics, Computers
+  and Electrics (ICMECE 2022), Barcelona, Spain.
+
+\bibitem[\protect\astroncite{Unanyan et~al.}{}]{emgcontrolled}
+Unanyan, N., Narek, A.~B., y Alexey.
+\newblock >low-price prosthetic hand controlled by emg signals.
+\newblock {\em Science Direct}.
+
+\bibitem[\protect\astroncite{{World Health Organization}}{2017}]{whodata1}
+{World Health Organization} (2017).
+\newblock Guidelines for training personnel in developing countries for
+  prosthetics and orthotics services.
+
+\end{thebibliography}

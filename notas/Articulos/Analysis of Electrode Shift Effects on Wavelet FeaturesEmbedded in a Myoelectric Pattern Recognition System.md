@@ -5,7 +5,7 @@
 
 - **CONTEXTO**: 
     Clasificación de clases de señales bioelectricas en un conjunto de individuos mediante tecnicas de PCA y SVM
-- **RESUMEN**: _
+- **RESUMEN**: 
     
 - **APLICACION**: 
 

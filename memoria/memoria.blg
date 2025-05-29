@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: memoria.aux
+The style file: apa.bst
+Database file #1: bibliografia.bib
+Warning--empty year in prosthesisdeeplearning
+Warning--empty journal in prosthesisdeeplearning
+Warning--empty year in labeegprosthesis2023
+Warning--empty year in emgcontrolled
+Warning--empty journal in whodata1
+You've used 12 entries,
+            1940 wiz_defined-function locations,
+            534 strings with 6401 characters,
+and the built_in function-call counts, 4803 in all, are:
+= -- 436
+> -- 283
+< -- 4
++ -- 102
+- -- 100
+* -- 416
+:= -- 888
+add.period$ -- 37
+call.type$ -- 12
+change.case$ -- 111
+chr.to.int$ -- 12
+cite$ -- 17
+duplicate$ -- 167
+empty$ -- 269
+format.name$ -- 112
+if$ -- 891
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 64
+num.names$ -- 36
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 110
+quote$ -- 0
+skip$ -- 126
+stack$ -- 0
+substring$ -- 201
+swap$ -- 29
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 5
+while$ -- 27
+width$ -- 0
+write$ -- 150
+(There were 5 warnings)

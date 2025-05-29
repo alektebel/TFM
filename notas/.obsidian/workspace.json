@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2c4e4752c390ba9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1226731e08495bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbf1c8d7b044e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articulos/Deep reinforcement learningfor dexterous hand manipulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep reinforcement learningfor dexterous hand manipulation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6622a0e5ffee70df",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fdc4c0e5b4fdcf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5853d9b550d99a32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a833213854cbaa73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3513d5534dc6295a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98252f43b7b47f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "73cd1e999e693e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c01929f5d21755b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Articulos/Deep reinforcement learningfor dexterous hand manipulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deep reinforcement learningfor dexterous hand manipulation"
+            }
+          },
+          {
+            "id": "bcc27ec56c6cdad4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Articulos/Deep reinforcement learningfor dexterous hand manipulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deep reinforcement learningfor dexterous hand manipulation"
+            }
+          },
+          {
+            "id": "71b8ce5fa8ee3c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38623dee7395e06e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Articulos/Deep reinforcement learningfor dexterous hand manipulation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deep reinforcement learningfor dexterous hand manipulation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dbf1c8d7b044e1e",
+  "lastOpenFiles": [
+    "Articulos/file.pdf",
+    "Articulos/file.pdf.crdownload",
+    "Articulos/Deep reinforcement learning for physics-basedmusculoskeletal simulations of healthy subjectsand transfemoral prosthesis users during normalwalking.md",
+    "Articulos/Estado del arte.md",
+    "Articulos/Feature Extraction of Surface Electromyography Using Wavelet Weighted Permutation Entropy for Hand Movement Recognition.md",
+    "Articulos/Gesture Recognition Using Surface Electromyography and Deep Learning for Prostheses Hand State-of-the-Art, Challenges, and Future.md",
+    "Articulos/Implantable Electrodes for Upper Limb.md",
+    "Articulos/IMPROVEMENTES AND OPTIMIZATION FOR A FUNCTIONAL PROSTHESIS HAND.md",
+    "Articulos/Multi-Category Gesture Recognition Modeling Based on sEMG and IMU Signals.md",
+    "Articulos/Real-Time EMG Based Pattern Recognition Controlfor Hand Prostheses A Review on Existing Methods,Challenges and Future Implementation.md",
+    "Articulos/Recognition of Upper Limb Action Intention Based on IMU.md",
+    "Articulos/Resolving the adverse impact of mobility on myoelectric pattern recognitionin upper-limb multifunctional prosthe.md",
+    "Articulos/Transformer-based hand gesture recognition from instantaneous to fused neural decomposition of high-density EMG signals.md",
+    "Articulos/Untitled.md",
+    "Articulos/VideoDex Learning Dexterity from Internet Videos.md",
+    "Articulos/Touch Hand 4.5 low-cost additivemanufacturing prosthetic hand participatedin Cybathlon 2020 ARM discipline.md",
+    "Articulos/The neural mechanisms of manual dexterity.md",
+    "Articulos/Study of issues in the development of surface EMG controlledhuman hand.md",
+    "Articulos/A Multi-Class Proportional Myocontrol Algorithmfor Upper Limb Prosthesis ControlValidation inReal-Life Scenarios on Amputee.md",
+    "Articulos/A Systematic Study on Electromyography-Based Hand GestureRecognition for Assistive Robots Using Deep Learning andMachine Learning Models.md",
+    "Articulos/ART-Multifunctional_biomaterial_coatings syntheticchallenges and biological activity.md",
+    "Articulos/Autoencoder based myocontroller for prosthetic hands.md",
+    "Articulos/Challenges with reinforcement learning in prosthesis.md",
+    "Articulos/Deep learning and session-specific rapid recalibration for dynamic hand gesture recognition from EMG.md",
+    "Articulos/Deep reinforcement learningfor dexterous hand manipulation.md",
+    "Articulos/Design of an Affordable Prosthetic Arm Equipped with DeepLearning Vision-Based Manipulation.md",
+    "Articulos/Design and implementation of a low cost handfor prosthetic application.md"
+  ]
+}

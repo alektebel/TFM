@@ -1,0 +1,20 @@
+% OBJETIVOS
+
+\cleardoublepage
+
+\chapter{Objetivos}
+\label{objetivos}
+
+
+
+\medskip
+\begin{enumerate}[label=\destacado{\arabic*.}]
+  \setlength\itemsep{1em}
+  \item \textbf{Objetivo parcial 1.} Generar un dataset personalizado de pares de activaciones EMG + Imágenes estereoscopicas parametrizables para el entrenamiento de prótesis de mano robótica.
+    Se utilizará el entorno de simulación Mujoco, y el dataset GRAB para simular el gesto de agarre de objetos de un usuario. Las activaciones EMG del antebrazo se simularán utilizando el framework NeuroMotion \citep{ma2023neuromotion}, y las imágenes estereoscópicas se generarán a partir de la simulación del entorno con una cámara virtual.
+
+  \item \textbf{Objetivo parcial 2.} Entrenar un modelo de aprendizaje por refuerzo profundo para la
+    predicción de movimientos de mano robótica a partir de señales EMG y imágenes estereoscópicas, utilizando DDPG o PPO como algoritmos de entrenamiento.
+
+  \item \textbf{Objetivo parcial 3.} Evaluar el rendimiento del modelo entrenado en un entorno simulado, comparando su eficacia con otros enfoques existentes en la literatura.
+\end{enumerate}
